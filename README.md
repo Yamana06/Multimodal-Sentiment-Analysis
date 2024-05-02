@@ -10,7 +10,7 @@ Multimodal sentiment analysis involves analyzing different types of data (text, 
 
 ### Text:
 - **Amazon Reviews**: A collection of text reviews from Amazon.
-  - [Link to dataset](link_here)
+  - [Link to dataset](https://drive.google.com/drive/folders/19NgILqUSELVugZ0Yhuim1LYJdpb0pJvh?usp=sharing)
 
 ### Image:
 - **FER2013**: Facial Expression Recognition 2013 dataset, consisting of facial images labeled with various emotions.
@@ -18,13 +18,13 @@ Multimodal sentiment analysis involves analyzing different types of data (text, 
 
 ### Audio:
 - **RAVDESS**: Ryerson Audio-Visual Database of Emotional Speech and Song, containing speech and song recordings expressing various emotions.
-  - [Link to dataset](link_here)
+  - [Link to dataset](https://drive.google.com/drive/folders/1YXGXGRB5kyeKFlYYlH08NVdGhBRZKIxC?usp=drive_link)
 - **CREMA-D**: Crowd-sourced Emotional Multimodal Actors Dataset, comprising speech recordings by actors enacting various emotions.
-  - [Link to dataset](link_here)
+  - [Link to dataset](https://drive.google.com/drive/folders/1rvPIf3TDHXqi4zw2xSzYCUnXEFsGzYA6?usp=drive_link)
 - **TESS**: Toronto Emotional Speech Set, featuring emotional speech recordings by actors.
-  - [Link to dataset](link_here)
+  - [Link to dataset](https://drive.google.com/drive/folders/1shPysp011W2oUE_bvjcsBEjnuVv__7GO?usp=drive_link)
 - **SAVEE**: Surrey Audio-Visual Expressed Emotion database, consisting of acted speech recordings expressing different emotions.
-  - [Link to dataset](link_here)
+  - [Link to dataset](https://drive.google.com/drive/folders/1tNnTPJeVJtKZksFha1KIDa47kmbGzgPA?usp=drive_link)
 
 
 
