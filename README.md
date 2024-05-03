@@ -27,4 +27,6 @@ Multimodal sentiment analysis involves analyzing different types of data (text, 
   - [Link to dataset](https://drive.google.com/drive/folders/1tNnTPJeVJtKZksFha1KIDa47kmbGzgPA?usp=drive_link)
 
 
+## Deployment
 
+Deployment was done using Hugging Face Spaces, and for the interface, we utilized Gradio. You can access the deployed models [here](https://pavan2606-multimodal-sentiment-analysis.hf.space/).
